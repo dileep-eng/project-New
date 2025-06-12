@@ -1,0 +1,53 @@
+{
+  "store": {
+    "name": "Flipkart",
+    "categories": [
+      {
+        "id": "mobiles",
+        "title": "Mobiles",
+        "products": [
+          {
+            "id": "MOB123456",
+            "name": "Samsung Galaxy M14 5G",
+            "brand": "Samsung",
+            "price": 12999,
+            "original_price": 14999,
+            "discount_percent": 13,
+            "rating": 4.3,
+            "reviews_count": 1245,
+            "image_url": "https://example.com/images/samsung-m14.jpg",
+            "availability": "In Stock",
+            "delivery_estimate": "2-3 days",
+            "specs": {
+              "RAM": "6 GB",
+              "Storage": "128 GB",
+              "Battery": "6000 mAh",
+              "Camera": "50 MP Triple",
+              "Display": "6.6 inch Full HD+"
+            }
+          },
+          {
+            "id": "MOB678901",
+            "name": "Redmi Note 13 Pro",
+            "brand": "Redmi",
+            "price": 16999,
+            "original_price": 18999,
+            "discount_percent": 11,
+            "rating": 4.5,
+            "reviews_count": 3200,
+            "image_url": "https://example.com/images/redmi-note13.jpg",
+            "availability": "Out of Stock",
+            "delivery_estimate": "5-7 days",
+            "specs": {
+              "RAM": "8 GB",
+              "Storage": "256 GB",
+              "Battery": "5000 mAh",
+              "Camera": "108 MP",
+              "Display": "6.7 inch AMOLED"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
