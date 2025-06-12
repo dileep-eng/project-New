@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "P12345",
+      "name": "Samsung Galaxy M14 5G",
+      "brand": "Samsung",
+      "price": 12999,
+      "original_price": 14999,
+      "discount": "13%",
+      "ratings": 4.3,
+      "reviews": 1245,
+      "image_url": "https://example.com/images/product1.jpg",
+      "availability": "In Stock",
+      "specs": {
+        "RAM": "6 GB",
+        "Storage": "128 GB",
+        "Battery": "6000 mAh",
+        "Display": "6.6 inch Full HD+"
+      }
+    },
+    {
+      "id": "P67890",
+      "name": "Redmi Note 13 Pro",
+      "brand": "Redmi",
+      "price": 16999,
+      "original_price": 18999,
+      "discount": "11%",
+      "ratings": 4.5,
+      "reviews": 3200,
+      "image_url": "https://example.com/images/product2.jpg",
+      "availability": "Out of Stock",
+      "specs": {
+        "RAM": "8 GB",
+        "Storage": "256 GB",
+        "Battery": "5000 mAh",
+        "Display": "6.7 inch AMOLED"
+      }
+    }
+  ]
+}
